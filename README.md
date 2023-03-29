@@ -51,3 +51,11 @@ Note: Message T or t for toggle, g13 or G13 for on/off, r or R for restart your 
 <img width="378" alt="Screenshot 2023-03-28 at 12 37 23 PM" src="https://user-images.githubusercontent.com/16783493/228400099-d034c178-d216-4686-abc8-5154301e49d2.png">
 
 <img width="378" alt="Screenshot 2023-03-28 at 12 38 31 PM" src="https://user-images.githubusercontent.com/16783493/228400119-a7fb239d-4c71-4505-8929-005cc1d0448f.png">
+
+![Simulator Screen Shot - Apple Watch Series 8 (45mm) - 2023-03-27 at 20 02 09](https://user-images.githubusercontent.com/16783493/228404650-ec7dca1f-2994-482d-9a7f-5ea293ddb4a1.png)
+
+
+![Simulator Screen Shot - Apple Watch Series 8 (45mm) - 2023-03-27 at 20 07 53](https://user-images.githubusercontent.com/16783493/228404688-57d5fec4-d17b-4f75-8884-1948ad823c9f.png)
+
+
+![Simulator Screen Shot - Apple Watch Series 8 (45mm) - 2023-03-27 at 20 02 34](https://user-images.githubusercontent.com/16783493/228404701-c757b5ca-17f2-4f9a-9706-6dc9c5a8f587.png)
