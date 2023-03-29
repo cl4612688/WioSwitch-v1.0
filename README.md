@@ -31,19 +31,18 @@ WioSwitchWiFiRemote watchOS app for Apple Watch
 
 2. Tap Defaults
 
-3. Enter your ID and Message
-
 ![Simulator Screen Shot - Apple Watch Series 8 (45mm) - 2023-03-27 at 20 01 35](https://user-images.githubusercontent.com/16783493/228399962-4e49b6f4-e507-46a9-9f3c-bf54bb5c42e0.png)
 
-4. Tap Back
+3. Enter your ID and Message
 
 ![Simulator Screen Shot - Apple Watch Series 8 (45mm) - 2023-03-27 at 20 02 01](https://user-images.githubusercontent.com/16783493/228399998-32fa744b-7611-42bd-beb4-890b4bb24953.png)
+
+4. Tap Back
 
 5. Tap wifi button
 
 
 Note: Message T or t for toggle, g13 or G13 for on/off, r or R for restart your ESP8266 device
-
 
 
 <img width="378" alt="Screenshot 2023-03-28 at 12 41 25 PM" src="https://user-images.githubusercontent.com/16783493/228399891-c22e87e2-24f6-4b2d-9eb6-ff072c298379.png">
