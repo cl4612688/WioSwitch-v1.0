@@ -58,3 +58,13 @@ Note: Message T or t for toggle, g13 or G13 for on/off, r or R for restart your 
 
 
 ![Simulator Screen Shot - Apple Watch Series 8 (45mm) - 2023-03-27 at 20 02 34](https://user-images.githubusercontent.com/16783493/228404701-c757b5ca-17f2-4f9a-9706-6dc9c5a8f587.png)
+
+
+<img width="420" alt="49mm" src="https://user-images.githubusercontent.com/16783493/228907520-0afda104-dcf8-4aa8-b9c4-a15f3c69261b.png">
+
+
+<img width="420" alt="Settings" src="https://user-images.githubusercontent.com/16783493/228907570-81f3d4aa-84d1-4f04-92c6-bc45d2eadfba.png">
+
+<img width="420" alt="Xyz" src="https://user-images.githubusercontent.com/16783493/228907690-a828355c-a644-488a-9a14-f480b60e4294.png">
+
+<img width="420" alt="SF Symbol for Open Closed 49mm" src="https://user-images.githubusercontent.com/16783493/228907732-6d4a07f7-1208-4fd8-8569-bf1d180b4635.png">
