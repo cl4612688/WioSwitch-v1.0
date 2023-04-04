@@ -3,6 +3,9 @@ WioSwitch v1.0 for WioSwitch iOS app and WioSwitchWifiRemote Apple Watch App
 
 https://apps.apple.com/us/app/wioswitch/id1186122678
 
+WioSwitchWiFiRemote Setup Part1 and Demo on Youtube
+https://www.youtube.com/watch?v=ITZor4yHD7s
+
 WioSwitchWiFiRemote v1.0 for Apple Watch
 
 How to setup WioSwitchWiFiRemote and Apple Watch to control ESP8266, ESP32, or NodeMCU boards
@@ -30,8 +33,6 @@ Click on upload
 After successfully flashing your ESP8266 device
 
 Note: If you haven't downloaded WioSwitch or WioSwitchWiFiRemote, just go to App Store and search WioSwitch for iOS app or WioSwitchWiFiRemote for Apple Watch, you need to pay $1.99 per app
-
-You can find two download links in the description of this video, one for WioSwitch v2.2 and one for WioSwitchWiFiRemote v1.0
 
 After downloading the WioSwitchWiFiRemote app from the App Store
 
@@ -85,6 +86,8 @@ Lines 24 and 28 are for your ID
 Lines 25 and 29 are for your message
 
 Message T or t for toggle, G13 or g13 for turn on then turn off, and R or r for restart your ESP8266 board.
+
+Note: If for some reason your Apple Watch can't control your ESP8266 device, just tap Settings Tap Defaults and everything will be back to normal, but for first time setup you may need to turn off your Apple Watch and turn it back on.
 
 ⚠️NOTE: If someone uses the same settings, you will control each other's device, so please make your ID and message unique, such as adding some emoji, special characters and numbers, so that the ID and message will be remembered.
 
