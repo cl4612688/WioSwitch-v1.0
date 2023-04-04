@@ -3,6 +3,97 @@ WioSwitch v1.0 for WioSwitch iOS app and WioSwitchWifiRemote Apple Watch App
 
 https://apps.apple.com/us/app/wioswitch/id1186122678
 
+WioSwitchWiFiRemote v1.0 for Apple Watch
+
+How to setup WioSwitchWiFiRemote and Apple Watch to control ESP8266, ESP32, or NodeMCU boards
+
+We're going to program our ESP8266 board using Arduino IDE
+
+So let's open the Arduino IDE
+
+And open your Safari as well
+
+Then we will copy a piece of code from GitHub https://github.com/cl4612688/WioSwitch-v1.0/blob/main/WioSwitch_v1.0.ino
+
+Paste the sketch to your Arduino IDE
+
+Save to a file
+
+Close your Safari
+
+Now plug the ESP8266 board into your Mac using the micro USB cable
+
+In my example I use NodeMCU 12-F, you can use any board you like
+
+Click on upload
+
+After successfully flashing your ESP8266 device
+
+Note: If you haven't downloaded WioSwitch or WioSwitchWiFiRemote, just go to App Store and search WioSwitch for iOS app or WioSwitchWiFiRemote for Apple Watch, you need to pay $1.99 per app
+
+You can find two download links in the description of this video, one for WioSwitch v2.2 and one for WioSwitchWiFiRemote v1.0
+
+After downloading the WioSwitchWiFiRemote app from the App Store
+
+Open WioSwitchWiFiRemote
+
+First we tap Settings and tap defaults
+
+The defaults function will set the event name to WioSwitch
+
+Tap the Enter ID text field to set the ID 
+
+So let's  type in XyzXyz
+
+Tap Done
+
+Tap Enter the message text field
+
+Type T or t 
+
+Tap Done
+
+Make sure the ID and Message are named correctly
+
+Again make sure the ID is XyzXyz and the message is T or t
+
+Tap < back
+
+So we're done setting up the app
+
+Let's try it now
+
+Just tap the orange WiFi button to turn on the LED on the ESP8266 device
+
+Your ESP8266's LED should light up
+
+Tap the WiFi button again to turn off the LED
+
+Open, close, open, close.
+
+Great, you've managed to control your ESP8266 just by using your WioSwitchWiFiRemote app with your Apple Watch
+
+If you ask family or friends from other countries, they have downloaded WioSwitchWiFiRemote from App Store, then do the same setup like you so they can control your ESP8266 from anywhere in the world
+
+Very simple and easy!
+
+✅ Change device's ID and message
+Now let's change the ID and message of your device to make the ID and message unique
+
+in sketch:
+Lines 24 and 28 are for your ID
+Lines 25 and 29 are for your message
+
+Message T or t for toggle, G13 or g13 for turn on then turn off, and R or r for restart your ESP8266 board.
+
+⚠️NOTE: If someone uses the same settings, you will control each other's device, so please make your ID and message unique, such as adding some emoji, special characters and numbers, so that the ID and message will be remembered.
+
+If you burn the same code to different boards then you can control them together
+
+⚠️Please, please don't trigger any booms or fires!
+
+
+
 Usage:
 
 WioSwitch iOS app for iPhone, iPad, and Mac
