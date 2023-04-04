@@ -26,7 +26,7 @@ Close your Safari
 
 Now plug the ESP8266 board into your Mac using the micro USB cable
 
-In my example I use NodeMCU 12-F, you can use any board you like
+In my case I use NodeMCU 12-F, you can use any board you like
 
 Click on upload
 
