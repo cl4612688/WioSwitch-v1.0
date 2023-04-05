@@ -32,7 +32,7 @@ After successfully flashing your ESP8266 device
 
 Note: If you haven't downloaded WioSwitch or WioSwitchWiFiRemote, just go to App Store and search WioSwitch for iOS app or WioSwitchWiFiRemote for Apple Watch, you need to pay $1.99 per app
 
-After downloaded the WioSwitchWiFiRemote app from the App Store
+After downloading the WioSwitchWiFiRemote app from the App Store
 
 Open WioSwitchWiFiRemote
 
