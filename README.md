@@ -1,12 +1,10 @@
 # WioSwitch-v1.0
-WioSwitch v1.0 for WioSwitch iOS app and WioSwitchWifiRemote Apple Watch app
+WioSwitch iOS app and WioSwitchWifiRemote app for iPhone and Apple Watch users
 
 https://apps.apple.com/us/app/wioswitch/id1186122678
 
 WioSwitchWiFiRemote Setup Part1 and Demo on Youtube
 https://www.youtube.com/watch?v=ITZor4yHD7s
-
-WioSwitchWiFiRemote v1.0 for Apple Watch
 
 How to setup WioSwitchWiFiRemote and Apple Watch to control ESP8266, ESP32, or NodeMCU boards
 
