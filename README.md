@@ -6,7 +6,7 @@ https://apps.apple.com/us/app/wioswitch/id1186122678
 WioSwitchWiFiRemote Setup Part1 and Demo on Youtube
 https://www.youtube.com/watch?v=ITZor4yHD7s
 
-How to setup WioSwitchWiFiRemote and Apple Watch to control ESP8266, ESP32, or NodeMCU boards
+How to setup WioSwitchWiFiRemote app to control ESP8266, ESP32, or NodeMCU boards
 
 We're going to program our ESP8266 board using Arduino IDE
 
@@ -32,7 +32,7 @@ After successfully flashing your ESP8266 device
 
 Note: If you haven't downloaded WioSwitch or WioSwitchWiFiRemote, just go to App Store and search WioSwitch for iOS app or WioSwitchWiFiRemote for Apple Watch, you need to pay $1.99 per app
 
-After downloading the WioSwitchWiFiRemote app from the App Store
+After downloaded the WioSwitchWiFiRemote app from the App Store
 
 Open WioSwitchWiFiRemote
 
