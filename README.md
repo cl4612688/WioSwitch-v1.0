@@ -116,7 +116,7 @@ WioSwitch iOS app for iPhone, iPad, and Mac
 Note: Message T or t for toggle, g13 or G13 for on/off, r or R for restart your ESP8266 device
 
 
-WioSwitchWiFiRemote watchOS app for Apple Watch
+WioSwitchWiFiRemote iOS app
 1. Tap Settings
 
 ![Simulator Screen Shot - Apple Watch Series 8 (45mm) - 2023-03-27 at 20 00 29](https://user-images.githubusercontent.com/16783493/228399937-0de9ceec-4217-46d3-a344-3be465432daf.png)
