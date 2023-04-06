@@ -77,6 +77,7 @@ If you ask family or friends from other countries, they have downloaded WioSwitc
 Very simple and easy!
 
 ✅ Change device's ID and message
+
 Now let's change the ID and message of your device to make the ID and message unique
 
 in sketch:
@@ -87,11 +88,9 @@ Message T or t for toggle, G13 or g13 for turn on then turn off, and R or r for 
 
 Note: If for some reason your Apple Watch can't control your ESP8266 device, just tap Settings Tap Defaults and everything will be back to normal, but for first time setup you may need to turn off your Apple Watch and turn it back on.
 
-⚠️NOTE: If someone uses the same settings, you will control each other's device, so please make your ID and message unique, such as adding some emoji, special characters and numbers, so that the ID and message will be remembered.
+⚠️NOTE: If someone uses the same settings, you will control each other's device, so please make your ID and message unique, such as adding some emoji, special characters and numbers.
 
 If you burn the same code to different boards then you can control them together
-
-⚠️Please, please don't trigger any booms or fires!
 
 
 
