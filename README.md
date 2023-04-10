@@ -1,7 +1,11 @@
 # WioSwitch-v1.0
 WioSwitch iOS app and WioSwitchWifiRemote app for iPhone and Apple Watch users
 
+This app is available only on the App Store for iPhone, iPad, and Mac.
 https://apps.apple.com/us/app/wioswitch/id1186122678
+
+This app is available only on the App Store for Apple Watch.
+https://apps.apple.com/app/wioswitchwifiremote/id6446872122
 
 WioSwitchWiFiRemote Setup Part1 and Demo on Youtube
 https://www.youtube.com/watch?v=ITZor4yHD7s
